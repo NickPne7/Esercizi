@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    color: purple;
+}
+
+fieldset{
+    border: 1px dotted #666;
+	padding: 1em;
+	margin: 1em 0;
+}
+
+#wrapper{
+    padding: 1.5em;
+    margin: 0em 50em 0em 50em;
+}
